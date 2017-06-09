@@ -84,7 +84,7 @@ Sense 是一个 https://www.elastic.co/guide/en/kibana/current/index.html[Kibana
 --------------------------------------------------
 ./bin/kibana plugin --install elastic/sense <1>
 --------------------------------------------------
-<1> Windows上面执行: `bin\kibana.bat plugin --install elastic/sense` 。
+<1> Windows上面执行: `bin\kibana-plugin.bat --install elastic/sense` 。
 +
 NOTE：你可以直接从这里 https://download.elastic.co/elastic/sense/sense-latest.tar.gz 下载 Sense
 离线安装可以查看这里 https://www.elastic.co/guide/en/sense/current/installing.html#manual_download[install it on an offline machine] 。
